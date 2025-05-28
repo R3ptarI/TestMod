@@ -1,6 +1,12 @@
 {
   "item.testmod.enderite": "Enderite",
+  "item.testmod.beer": "Lecker Bierchen",
+  "item.testmod.chisel": "Chisel",
 
 
-  "item.testmod.enderite_block": "Enderite Block"
+  "item.testmod.enderite_block": "Enderite Block",
+
+
+  "creativetab.testmod.enderite_items": "Enderite Items",
+  "creativetab.testmod.enderite_blocks": "Enderite Blocks"
 }
